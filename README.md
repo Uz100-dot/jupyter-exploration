@@ -1,2 +1,2 @@
-# jupyter-exploration
-This is my first assignment in 1378 ( making a jupiter notebook and connecting it to github )
+# Jupyter Exploration  
+In this repository, I’m going to show you how to create a notebook in Google Colab and link it to your GitHub repository. Let’s dive in!
